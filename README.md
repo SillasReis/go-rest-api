@@ -1,2 +1,3 @@
-# go-rest-api
+# Personas Go REST API
+
 A Go REST API example
